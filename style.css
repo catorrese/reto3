@@ -1,11 +1,36 @@
-header{
-    background-color: brown;
+header,
+footer {
+  background-color: #784212;
+  text-align: center;
+  justify-content: center;
+  color: white;
 }
 
-.custom-nav{
-    background-color: pink;
+header {
+  height: 50px;
 }
 
-.sidebar{
-    background-color: green;
+div {
+  text-align: center;
+}
+
+.custom-nav {
+  background-color: #f5b7b1;
+  text-align: center;
+}
+
+.custom-sidebar {
+  background-color: #f39c12;
+}
+
+.main-content {
+  height: 130px;
+}
+
+.odd-pic {
+  background-color: #e74c3c;
+}
+
+.even-pic {
+  background-color: #5dade2;
 }
